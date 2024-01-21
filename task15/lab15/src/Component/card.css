@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+.section_main{
+    display: flex;
+    justify-content: center;
+}
+.card {
+    width: 350px;
+    height: 400px;
+    background-color: #fff;
+    text-align: center;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-in-out;
+    
+
+    
+}
+
+
+
